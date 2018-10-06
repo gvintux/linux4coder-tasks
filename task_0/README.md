@@ -14,14 +14,15 @@
 
 ## Instructions
 
-* make **task_0** directory in **projects** directory
+	1. make **task_0** directory in **projects** directory
 
-* change current directory to **task_0**
+	2. change current directory to **task_0**
 
-* place **main.c** source file in **src** directory
+	3. place **main.c** source file in **src** directory
 
-* build **task_0** executable in **build** directory using compilation flags `-O0 -g -Wall`
+	4. build **task_0** executable in **build** directory using compilation flags `-O0 -g -Wall`
 
-* run **task_0** from **build** directory
+	5. run **task_0** from **build** directory
 
-* analyze **task_0** executable using `valgrind` and `gdb`
+	6. analyze **task_0** executable using `valgrind` and `gdb`
+
