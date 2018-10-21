@@ -21,3 +21,5 @@ Contains tasks for `linux4coder`
 ## Included tasks
 
 * **task_0** - 'Make your first project' task
+
+* **task_1** - 'Numeric data IO. Assignment operator' task
