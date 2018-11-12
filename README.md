@@ -23,3 +23,21 @@ Contains tasks for `linux4coder`
 * **task_0** - 'Make your first project' task
 
 * **task_1** - 'Numeric data IO. Assignment operator' task
+
+* **task_2** - 'Integer arithmetic' task
+
+* **task_3** - 'Logical values' task
+
+* **task_4** - 'Conditional operator' task
+
+* **task_5** - 'For loop' task
+
+* **task_6** - 'While loop' task
+
+* **task_7** - 'Loop and conditional operator combination' task
+
+* **task_8** - 'Inner loops' task
+
+* **task_9** - 'Char strings' task
+
+* **task_10** - 'Functions and procedures' task
